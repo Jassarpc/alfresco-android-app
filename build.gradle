@@ -1,8 +1,8 @@
 
-RELEASE_STORE_FILE="/home/hamidullah/keys/mykey.keystore"
-RELEASE_STORE_PASSWORD="jassar"
-RELEASE_KEY_ALIAS="myalias"
-RELEASE_KEY_PASSWORD="jassar"
+def RELEASE_STORE_FILE="/home/hamidullah/keys/mykey.keystore"
+def RELEASE_STORE_PASSWORD="jassar"
+def RELEASE_KEY_ALIAS="myalias"
+def RELEASE_KEY_PASSWORD="jassar"
 
 
 
