@@ -1,3 +1,11 @@
+
+RELEASE_STORE_FILE=/home/hamidullah/keys/mykey.keystore
+RELEASE_STORE_PASSWORD=jassar
+RELEASE_KEY_ALIAS=myalias
+RELEASE_KEY_PASSWORD=jassar
+
+
+
 buildscript {
     repositories {
         jcenter()
